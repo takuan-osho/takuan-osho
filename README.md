@@ -1,19 +1,19 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-5.9%20million%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 439 Contributions in 2020
+> 🏆 439 Contributions in the year 2020
  > 
-> 📦 Used 948.5 kB in GitHub's Storage 
+> 📦 948.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 103 Public Repositories 
+> 📜 103 Public repositories
  > 
-> 🔑 10 Owned Private Repositories 
+> 🔑 10 Private repositories 
 
 **I'm an Early 🐤** 
 
@@ -24,7 +24,7 @@
 🌙 Night      41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59%
 
 ```
-📅 **I'm Most Productive on Tuesdays** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
@@ -38,24 +38,24 @@ Sunday       56 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Tokyo
+⌚︎ Time zone: Asia/Tokyo
 
-💬 Languages: 
-reStructuredText         4 hrs 54 mins       █████████████░░░░░░░░░░░░   52.28% 
-Go                       3 hrs               ████████░░░░░░░░░░░░░░░░░   32.16% 
-Other                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
-Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.78% 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
+💬 Programming Languages: 
+Go                       3 hrs               ████████████████░░░░░░░░░   65.86% 
+Other                    48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
+Python                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
+C                        7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72% 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
 
-🔥 Editors: 
-VS Code                  8 hrs 12 mins       ██████████████████████░░░   87.6% 
-PyCharm                  1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
+🔥 Code Editors: 
+VS Code                  3 hrs 24 mins       ██████████████████░░░░░░░   74.6% 
+PyCharm                  1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   25.4%
 
-💻 Operating Systems: 
-Mac                      9 hrs 22 mins       █████████████████████████   100.0%
+💻 Operating System: 
+Mac                      4 hrs 34 mins       █████████████████████████   100.0%
 
 ```
 
