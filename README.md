@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 491 Contributions in the Year 2020
+> 🏆 492 Contributions in the Year 2020
  > 
 > 📦 900.2 kB Used in Github's Storage 
  > 
@@ -44,16 +44,13 @@ Sunday       57 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JavaScript               27 mins             █████████████████████░░░░   85.72% 
-Text                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████░░░░   85.81% 
-Windows                  4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.19%
+No Activity Tracked This Week
 
 ```
 
