@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.7%20million%20lines%20of%20code-blue)
 
@@ -46,8 +46,7 @@ Sunday       54 commits     ██░░░░░░░░░░░░░░░�
 💬 Programming Languages: 
 Go                       29 mins             ███████████████████░░░░░░   76.62% 
 PowerShell               8 mins              █████░░░░░░░░░░░░░░░░░░░░   22.95% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
 VS Code                  38 mins             █████████████████████████   100.0%
