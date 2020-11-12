@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.0%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -45,8 +45,7 @@ Sunday       54 commits     ██░░░░░░░░░░░░░░░�
 
 💬 Programming Languages: 
 JavaScript               12 mins             ███████████████████████░░   91.99% 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   8.01%
 
 🔥 Editors: 
 VS Code                  14 mins             █████████████████████████   100.0%
