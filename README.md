@@ -44,15 +44,13 @@ Sunday       56 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Rust                     43 mins             ████████████████████████░   98.69% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.11% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -73,5 +71,5 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/takuan-osho/takuan-osho/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/06/2021
+ Last Updated on 24/06/2021
 <!--END_SECTION:waka-->
