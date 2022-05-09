@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C838%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -73,5 +73,5 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/takuan-osho/takuan-osho/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/05/2022 12:44:32 UTC
+ Last Updated on 09/05/2022 02:05:00 UTC
 <!--END_SECTION:waka-->
