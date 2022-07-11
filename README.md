@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C840%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -46,13 +46,14 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Text                     5 mins              ███████████████████████░░   93.88% 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.0%
 
 ```
 
@@ -73,5 +74,5 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/takuan-osho/takuan-osho/master/charts/bar_graph.png) 
 
 
- Last Updated on 10/07/2022 12:44:34 UTC
+ Last Updated on 11/07/2022 02:16:31 UTC
 <!--END_SECTION:waka-->
