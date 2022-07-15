@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C840%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 455 Contributions in the Year 2022
+> 🏆 457 Contributions in the Year 2022
  > 
 > 📦 901.0 kB Used in GitHub's Storage 
  > 
@@ -46,14 +46,15 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Text                     5 mins              ███████████████████████░░   93.88% 
-YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
+Other                    14 mins             █████████████████░░░░░░░░   69.87% 
+Text                     5 mins              ███████░░░░░░░░░░░░░░░░░░   28.28% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+VS Code                  20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.0%
+Windows                  20 mins             █████████████████████████   100.0%
 
 ```
 
@@ -74,5 +75,5 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/takuan-osho/takuan-osho/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/07/2022 12:51:42 UTC
+ Last Updated on 15/07/2022 02:32:43 UTC
 <!--END_SECTION:waka-->
