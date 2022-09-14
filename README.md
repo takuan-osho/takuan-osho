@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 697 Contributions in the Year 2022
+> 🏆 699 Contributions in the Year 2022
  > 
 > 📦 901.1 kB Used in GitHub's Storage 
  > 
@@ -17,6 +17,45 @@
  > 
 > 🔑 12 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    85 commits     █████░░░░░░░░░░░░░░░░░░░░   23.22% 
+🌆 Daytime    239 commits    ████████████████░░░░░░░░░   65.3% 
+🌃 Evening    42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.48% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.3% 
+Tuesday      57 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.57% 
+Wednesday    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.85% 
+Thursday     108 commits    ███████░░░░░░░░░░░░░░░░░░   29.51% 
+Friday       87 commits     ██████░░░░░░░░░░░░░░░░░░░   23.77% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -34,5 +73,5 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/takuan-osho/takuan-osho/master/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 02:41:40 UTC
+ Last Updated on 14/09/2022 13:04:31 UTC
 <!--END_SECTION:waka-->
