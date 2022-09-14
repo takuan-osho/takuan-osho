@@ -17,45 +17,6 @@
  > 
 > 🔑 12 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    78 commits     █████░░░░░░░░░░░░░░░░░░░░   21.85% 
-🌆 Daytime    237 commits    ████████████████░░░░░░░░░   66.39% 
-🌃 Evening    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-Tuesday      56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Wednesday    69 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
-Thursday     108 commits    ███████░░░░░░░░░░░░░░░░░░   30.25% 
-Friday       79 commits     █████░░░░░░░░░░░░░░░░░░░░   22.13% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -73,5 +34,5 @@ Ruby                     2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/takuan-osho/takuan-osho/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 12:58:14 UTC
+ Last Updated on 14/09/2022 02:41:40 UTC
 <!--END_SECTION:waka-->
